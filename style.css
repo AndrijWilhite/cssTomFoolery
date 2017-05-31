@@ -1,0 +1,77 @@
+#center {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#content {
+  clear:both;
+}
+
+#Wrapper {
+    background: url(./materials/images/banner.jpg) no-repeat center top;
+    clear:both;
+}
+
+body {
+    background-color: #c0c0c0;
+    font-family: Lato ( You can get it from http: //fonts.googleapis.com/css? family=Lato:300,400,700)
+}
+
+h1, h2, h3 {
+    color: #002b5a;
+    margin-bottom: 42px;
+    text-transform: capitalize;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 200;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 200;
+}
+
+h3 {
+    font-size: 15px;
+    font-weight: Weight: normal;
+}
+
+p tag on header content: {
+    color: #333;
+    font-family: Lato;
+    font-size: 18px;
+}
+
+p tag on light-gray box {
+    tag on light-gray box font-size: 12px;
+    text-alignment: justify;
+}
+
+.stateFinder {
+font-size: 20px;
+margin-bottom:20px;
+float: right;
+}
+
+.loremText{
+color: #002b5a;
+margin-bottom: 5px;
+font-size: 12px;
+
+}
+
+.dropDownState {
+  color:#002b5a;
+  font-size:13px
+}
+
+.bunchOstuff {
+background-color: #e0e0eb;
+float: left;
+}
+.sub1 {
+  float: left;
+  margin:0px;
+}
